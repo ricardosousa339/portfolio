@@ -1,0 +1,31 @@
+{
+  "name": "ricardo-portfolio",
+  "version": "1.0.0",
+  "description": "A personal portfolio for Ricardo Henrique, showcasing projects and blog posts.",
+  "main": "src/app/page.tsx",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "portfolio",
+    "nextjs",
+    "react"
+  ],
+  "author": "Ricardo Henrique",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "next": "latest",
+    "postcss": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "typescript": "latest"
+  }
+}
